@@ -17,8 +17,6 @@ The game supports:
 - **Turn-based play:** Alternates between human player and AI.
 - **Optimal AI:** Uses Minimax to evaluate all possible moves and select the best outcome.
 - **Game status:** Detects wins, losses, and draws accurately.
-- **Clear input validation:** Prevents invalid or occupied moves.
-- **Pure Python implementation:** No external dependencies required.
 
 ---
 
