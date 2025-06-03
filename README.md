@@ -14,7 +14,6 @@ The game supports:
 
 ## Features
 
-- **Simple board representation:** 3x3 grid with `X`, `O`, or empty cells.
 - **Turn-based play:** Alternates between human player and AI.
 - **Optimal AI:** Uses Minimax to evaluate all possible moves and select the best outcome.
 - **Game status:** Detects wins, losses, and draws accurately.
